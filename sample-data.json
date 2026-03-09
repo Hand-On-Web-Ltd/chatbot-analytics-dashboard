@@ -1,0 +1,50 @@
+{
+  "summary": {
+    "totalConversations": 4827,
+    "avgResponseTime": 1.3,
+    "satisfactionScore": 4.6,
+    "conversionRate": 23.4
+  },
+  "messagesPerDay": [
+    { "date": "2025-02-01", "count": 142 },
+    { "date": "2025-02-02", "count": 98 },
+    { "date": "2025-02-03", "count": 187 },
+    { "date": "2025-02-04", "count": 203 },
+    { "date": "2025-02-05", "count": 176 },
+    { "date": "2025-02-06", "count": 221 },
+    { "date": "2025-02-07", "count": 195 },
+    { "date": "2025-02-08", "count": 112 },
+    { "date": "2025-02-09", "count": 89 },
+    { "date": "2025-02-10", "count": 234 },
+    { "date": "2025-02-11", "count": 198 },
+    { "date": "2025-02-12", "count": 267 },
+    { "date": "2025-02-13", "count": 245 },
+    { "date": "2025-02-14", "count": 178 },
+    { "date": "2025-02-15", "count": 134 },
+    { "date": "2025-02-16", "count": 102 },
+    { "date": "2025-02-17", "count": 289 },
+    { "date": "2025-02-18", "count": 312 },
+    { "date": "2025-02-19", "count": 276 },
+    { "date": "2025-02-20", "count": 258 },
+    { "date": "2025-02-21", "count": 241 },
+    { "date": "2025-02-22", "count": 156 },
+    { "date": "2025-02-23", "count": 118 },
+    { "date": "2025-02-24", "count": 298 },
+    { "date": "2025-02-25", "count": 321 },
+    { "date": "2025-02-26", "count": 287 },
+    { "date": "2025-02-27", "count": 265 },
+    { "date": "2025-02-28", "count": 234 }
+  ],
+  "topQuestions": [
+    { "question": "What are your opening hours?", "count": 387, "answered": true },
+    { "question": "How much does it cost?", "count": 342, "answered": true },
+    { "question": "Can I book an appointment?", "count": 298, "answered": true },
+    { "question": "Where are you located?", "count": 256, "answered": true },
+    { "question": "Do you offer refunds?", "count": 198, "answered": true },
+    { "question": "How do I cancel my booking?", "count": 176, "answered": true },
+    { "question": "What services do you offer?", "count": 165, "answered": true },
+    { "question": "Can I speak to a human?", "count": 143, "answered": false },
+    { "question": "Do you have parking?", "count": 121, "answered": true },
+    { "question": "What payment methods do you accept?", "count": 108, "answered": true }
+  ]
+}
